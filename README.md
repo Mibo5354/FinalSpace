@@ -1,6 +1,6 @@
 # Final Space Rainmeter Skin
 **Demo**
-![Demo Gif](Demo.gif)
+![Demo Gif](demo.gif)
 
 **Screenshot**
 ![Screenshot](Screenshot.png)
