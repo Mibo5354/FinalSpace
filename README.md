@@ -6,7 +6,7 @@
 ![Screenshot](Screenshot.png)
 
 # Install Instructions
-- Download [FinalSpace_1.0.1.rmskin](https://github.com/Mibo5354/FinalSpace/raw/master/FinalSpace_1.0.1.rmskin)
+- Download [FinalSpace_1.1.0.rmskin](https://github.com/Mibo5354/FinalSpace/raw/master/FinalSpace_1.1.0.rmskin)
 - Download and install [Rainmeter](https://www.rainmeter.net)
 - Open .rmskin and install
 - Load included layout (optimized for 1366x768) or customise it yourself
